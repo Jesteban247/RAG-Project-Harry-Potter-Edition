@@ -15,12 +15,14 @@ This project implements a RAG pipeline from scratch, with some help from powerfu
 Together, these components form a robust **RAG pipeline** that mimics human-like comprehension and response generation. The pipeline is designed to answer any question based on the **Harry Potter** books in an interactive way!
 
 ## 🛠️ **How to Use**
-Run the notebook to start querying the book and watch the magic unfold! ✨
-Remeber use GPU.
+Run the notebook (Remeber use GPU) to start querying the book and watch the magic unfold! ✨
 
 ## 🎥 **Video Walkthrough**
 
 Check out this video for a complete walkthrough of the project:  
+
+
+https://github.com/user-attachments/assets/af0a7264-9d9d-47e7-a4d1-fd55ab3c0c68
 
 
 ## 🎥 **Acknowledgments**
